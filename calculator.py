@@ -4,6 +4,10 @@ calculator.py
 
 One function per operation, in order.
 """
+# https://github.com/elau967/lab11-EL-SK.git
+# Partner 1: Eric Lau
+# Partner 2: Simon Kareng
+
 import math
 def add(a, b): 
     return a+b
