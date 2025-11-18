@@ -1,9 +1,9 @@
-import unittest
-from calculator import *
-
 # https://github.com/elau967/lab11-EL-SK.git
 # Partner 1: Eric Lau
 # Partner 2: Simon Kareng
+
+import unittest
+from calculator import *
 
 class TestCalculator(unittest.TestCase):
     ######### Partner 2

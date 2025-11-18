@@ -1,12 +1,13 @@
+# https://github.com/elau967/lab11-EL-SK.git
+# Partner 1: Eric Lau
+# Partner 2: Simon Kareng
+
 """
 calculator.py
 - Defines functions used to create a simple calculator
 
 One function per operation, in order.
 """
-# https://github.com/elau967/lab11-EL-SK.git
-# Partner 1: Eric Lau
-# Partner 2: Simon Kareng
 
 import math
 def add(a, b): 
